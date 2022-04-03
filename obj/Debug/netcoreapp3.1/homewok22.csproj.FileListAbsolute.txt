@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\homewok22\bin\Debug\netcoreapp3.1\homewok22.exe
+C:\Users\Windows\source\repos\homewok22\bin\Debug\netcoreapp3.1\homewok22.deps.json
+C:\Users\Windows\source\repos\homewok22\bin\Debug\netcoreapp3.1\homewok22.runtimeconfig.json
+C:\Users\Windows\source\repos\homewok22\bin\Debug\netcoreapp3.1\homewok22.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\homewok22\bin\Debug\netcoreapp3.1\homewok22.dll
+C:\Users\Windows\source\repos\homewok22\bin\Debug\netcoreapp3.1\homewok22.pdb
+C:\Users\Windows\source\repos\homewok22\obj\Debug\netcoreapp3.1\homewok22.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\homewok22\obj\Debug\netcoreapp3.1\homewok22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\homewok22\obj\Debug\netcoreapp3.1\homewok22.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\homewok22\obj\Debug\netcoreapp3.1\homewok22.AssemblyInfo.cs
+C:\Users\Windows\source\repos\homewok22\obj\Debug\netcoreapp3.1\homewok22.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\homewok22\obj\Debug\netcoreapp3.1\homewok22.dll
+C:\Users\Windows\source\repos\homewok22\obj\Debug\netcoreapp3.1\homewok22.pdb
+C:\Users\Windows\source\repos\homewok22\obj\Debug\netcoreapp3.1\homewok22.genruntimeconfig.cache
